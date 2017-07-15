@@ -1,0 +1,22 @@
+{
+  "name": "test_one",
+  "version": "1.0.0",
+  "description": "testing sounds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jammin2shirts/tunes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jammin2shirts/tunes/issues"
+  },
+  "homepage": "https://github.com/jammin2shirts/tunes#readme",
+  "dependencies": {
+    "scribbletune":"*"
+  }
+}
